@@ -1,4 +1,4 @@
-package com.javainuse.model;
+package com.akgcloud.model;
 
 import java.io.Serializable;
 

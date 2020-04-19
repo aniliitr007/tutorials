@@ -1,4 +1,4 @@
-package com.mastertheboss.springboot.SpringBootJMS;
+package com.akgcloud.springbootjms;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

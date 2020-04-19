@@ -1,8 +1,8 @@
-package com.javainuse.service;
+package com.akgcloud.service;
 
 import java.util.List;
 
-import com.javainuse.model.Employee;
+import com.akgcloud.model.Employee;
 
 public interface EmployeeService {
 	void insertEmployee(Employee emp);

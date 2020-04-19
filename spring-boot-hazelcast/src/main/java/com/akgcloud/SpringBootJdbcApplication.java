@@ -1,4 +1,4 @@
-package com.javainuse;
+package com.akgcloud;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,8 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.ApplicationContext;
 
-import com.javainuse.model.Employee;
-import com.javainuse.service.EmployeeService;
+import com.akgcloud.model.Employee;
+import com.akgcloud.service.EmployeeService;
 
 @SpringBootApplication
 @EnableCaching

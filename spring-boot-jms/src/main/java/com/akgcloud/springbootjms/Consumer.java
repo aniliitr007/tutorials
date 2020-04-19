@@ -1,4 +1,4 @@
-package com.mastertheboss.springboot.SpringBootJMS;
+package com.akgcloud.springbootjms;
 
 import javax.jms.JMSException;
 import javax.jms.Message;

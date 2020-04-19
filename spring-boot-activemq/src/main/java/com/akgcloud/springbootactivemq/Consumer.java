@@ -1,4 +1,4 @@
-package com.akgcloud.activemq.springbootactivemq;
+package com.akgcloud.springbootactivemq;
 
 import javax.jms.JMSException;
 import javax.jms.Message;

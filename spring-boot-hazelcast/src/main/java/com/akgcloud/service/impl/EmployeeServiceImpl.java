@@ -1,4 +1,4 @@
-package com.javainuse.service.impl;
+package com.akgcloud.service.impl;
 
 import java.util.List;
 
@@ -7,9 +7,9 @@ import org.springframework.cache.annotation.CacheConfig;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
-import com.javainuse.dao.EmployeeDao;
-import com.javainuse.model.Employee;
-import com.javainuse.service.EmployeeService;
+import com.akgcloud.dao.EmployeeDao;
+import com.akgcloud.model.Employee;
+import com.akgcloud.service.EmployeeService;
 
 @Service
 @CacheConfig(cacheNames = "employees")

@@ -1,4 +1,4 @@
-package com.mastertheboss.springboot.SpringBootJMS;
+package com.akgcloud.springbootjms;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

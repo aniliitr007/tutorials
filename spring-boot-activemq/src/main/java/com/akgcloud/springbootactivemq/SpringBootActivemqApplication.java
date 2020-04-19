@@ -1,4 +1,4 @@
-package com.akgcloud.activemq.springbootactivemq;
+package com.akgcloud.springbootactivemq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

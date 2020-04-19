@@ -1,4 +1,4 @@
-package com.mastertheboss.springboot.SpringBootJMS;
+package com.akgcloud.springbootjms;
 
 import org.springframework.jms.core.JmsTemplate;
 import org.springframework.web.bind.annotation.*;
